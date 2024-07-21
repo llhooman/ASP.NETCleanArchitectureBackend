@@ -1,0 +1,385 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Api\\GymManagement.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Api\\GymManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Api\\GymManagement.Api.csproj",
+        "projectName": "GymManagement.Api",
+        "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Api\\GymManagement.Api.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Users\\root\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj"
+              },
+              "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+                "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
+              },
+              "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj",
+        "projectName": "GymManagement.Application",
+        "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\root\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectName": "GymManagement.Contracts",
+        "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\root\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "projectName": "GymManagement.Domain",
+        "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\root\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "Throw": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+        "projectName": "GymManagement.Infrastructure",
+        "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\root\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Application\\GymManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

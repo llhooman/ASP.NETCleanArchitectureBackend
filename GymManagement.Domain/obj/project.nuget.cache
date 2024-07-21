@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcsaov5HBlkti0ojtZWAkD2XQk3O1V0NR03G3tV34bBTEsohoXc2LHWNLyNqxDAfWXETQtaNR8Cnfln7w7Xung==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\root\\Desktop\\THEPROJECT\\backend\\GymManagement.Domain\\GymManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\throw\\1.4.0\\throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

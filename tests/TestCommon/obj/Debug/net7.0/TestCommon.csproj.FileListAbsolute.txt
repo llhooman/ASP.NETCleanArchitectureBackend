@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\bin\Debug\net7.0\TestCommon.deps.json
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\bin\Debug\net7.0\TestCommon.dll
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\bin\Debug\net7.0\TestCommon.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\bin\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\bin\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.AssemblyInfo.cs
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.csproj.CopyComplete
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.dll
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\refint\TestCommon.dll
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\TestCommon.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\tests\TestCommon\obj\Debug\net7.0\ref\TestCommon.dll

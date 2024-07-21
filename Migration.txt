@@ -1,0 +1,2 @@
+Add-Migration finalStarter -p GymManagement.Infrastructure -s GymManagement.Api
+Update-Database

@@ -1,0 +1,12 @@
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.deps.json
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.AssemblyInfo.cs
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\refint\GymManagement.Domain.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Domain\obj\Debug\net7.0\ref\GymManagement.Domain.dll

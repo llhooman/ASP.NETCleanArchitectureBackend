@@ -1,0 +1,12 @@
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\bin\Debug\net7.0\GymManagement.Contracts.deps.json
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\bin\Debug\net7.0\GymManagement.Contracts.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\bin\Debug\net7.0\GymManagement.Contracts.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.AssemblyInfo.cs
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\refint\GymManagement.Contracts.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\GymManagement.Contracts.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Contracts\obj\Debug\net7.0\ref\GymManagement.Contracts.dll

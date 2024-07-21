@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\bin\Debug\net7.0\GymManagement.Application.deps.json
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\bin\Debug\net7.0\GymManagement.Application.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\bin\Debug\net7.0\GymManagement.Application.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\bin\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\bin\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.AssemblyInfo.cs
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.csproj.CopyComplete
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\refint\GymManagement.Application.dll
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.pdb
+C:\Users\root\Desktop\THEPROJECT\backend\GymManagement.Application\obj\Debug\net7.0\ref\GymManagement.Application.dll
